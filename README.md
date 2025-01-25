@@ -8,9 +8,7 @@ RFID App is a web application built with **Laravel** and styled using **Tailwind
 - **Log Data Table**: Displays a table showing the log data, including the generated UID and timestamps.
 - **Delete Log Data**: Provides the ability to delete log data by specifying the log ID.
 
-## Installation
-
-### Prerequisites
+## Requirements
 
 - PHP => 8.2.12
 - Composer
